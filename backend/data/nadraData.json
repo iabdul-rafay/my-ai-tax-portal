@@ -1,0 +1,29 @@
+{
+  "cnic": "42101-1234567-3",
+  "fullName": "Zia Khan",
+  "fatherName": "Inayat Khan",
+  "dateOfBirth": "1985-01-15",
+  "profession": "Software Engineer",
+  "phoneNumber": "0300-1234567",
+  "aliases": [
+    {
+      "name": "Zia K.",
+      "relation": "colleague"
+    }
+  ],
+  "addresses": [
+    {
+      "type": "present",
+      "street": "House 123, Street 4, Sector G-11/3",
+      "city": "Islamabad",
+      "province": "ICT"
+    },
+    {
+      "type": "permanent",
+      "street": "Village Khanpur, Tehsil & District",
+      "city": "Swabi",
+      "province": "Khyber Pakhtunkhwa"
+    }
+  ]
+}
+

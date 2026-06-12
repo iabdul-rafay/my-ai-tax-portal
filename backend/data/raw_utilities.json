@@ -1,0 +1,35 @@
+[
+  {
+    "consumerNumber": "1234567890123",
+    "provider": "IESCO",
+    "ownerName": "Z. R. Khan",
+    "connectionAddress": "H. 123, St. 4, Sector G-11/3, Islamabad",
+    "connectionType": "electricity",
+    "bills": [
+      {"month": "2024-01", "units": 450, "amountPKR": 32000},
+      {"month": "2024-02", "units": 510, "amountPKR": 38000}
+    ]
+  },
+  {
+    "consumerNumber": "8888777766665",
+    "provider": "LESCO",
+    "ownerName": "Asma Tariq",
+    "connectionAddress": "Plot 45, DHA Phase 6, Lahore",
+    "connectionType": "electricity",
+    "bills": [
+      {"month": "2024-01", "units": 3200, "amountPKR": 125000},
+      {"month": "2024-02", "units": 2800, "amountPKR": 105000}
+    ]
+  },
+  {
+    "consumerNumber": "4444555566667",
+    "provider": "IESCO",
+    "ownerName": "M. Bilal",
+    "connectionAddress": "Flat 12, Block A, I-8/2, Islamabad",
+    "connectionType": "electricity",
+    "bills": [
+      {"month": "2024-01", "units": 210, "amountPKR": 8500},
+      {"month": "2024-02", "units": 190, "amountPKR": 7500}
+    ]
+  }
+]

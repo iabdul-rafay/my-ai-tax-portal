@@ -1,0 +1,53 @@
+[
+  {
+    "ntn": "1234567-8",
+    "name": "Zia-ur-Rahman Khan",
+    "cnic": "42101-1234567-3",
+    "taxFilings": [
+      {"year": 2023, "declaredIncome": 1500000, "taxPaid": 45000, "status": "filed"},
+      {"year": 2022, "declaredIncome": 1200000, "taxPaid": 30000, "status": "filed"}
+    ],
+    "properties": [
+      {
+        "type": "residential",
+        "location": "House 123, Street 4, G-11/3, Islamabad",
+        "estimatedValuePKR": 35000000,
+        "area": "500 sq yd",
+        "registeredIn": "Zia-ur-Rahman Khan"
+      }
+    ]
+  },
+  {
+    "ntn": "9876543-2",
+    "name": "Asma Chaudhry",
+    "cnic": "35201-9988776-2",
+    "taxFilings": [
+      {"year": 2023, "declaredIncome": 500000, "taxPaid": 0, "status": "filed"}
+    ],
+    "properties": [
+      {
+        "type": "residential",
+        "location": "Plot 45, Block C, DHA Phase 6, Lahore",
+        "estimatedValuePKR": 95000000,
+        "area": "1 Kanal",
+        "registeredIn": "Asma T. Chaudhry"
+      },
+      {
+        "type": "commercial",
+        "location": "Plot 10, Block C-2, Gulberg III, Lahore",
+        "estimatedValuePKR": 110000000,
+        "area": "10 Marla",
+        "registeredIn": "Asma Chaudhry"
+      }
+    ]
+  },
+  {
+    "ntn": "5555444-9",
+    "name": "M. Bilal",
+    "cnic": "37405-5555444-1",
+    "taxFilings": [
+      {"year": 2023, "declaredIncome": 0, "taxPaid": 0, "status": "not_filed"}
+    ],
+    "properties": []
+  }
+]

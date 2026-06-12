@@ -1,0 +1,29 @@
+[
+  {
+    "cnic": "42101-1234567-3",
+    "fullName": "Zia Khan",
+    "fatherName": "Inayat Khan",
+    "dateOfBirth": "1985-01-15",
+    "phoneNumber": "0300-1234567",
+    "address": "House 123, Street 4, Sector G-11/3, Islamabad, ICT",
+    "gender": "Male"
+  },
+  {
+    "cnic": "35201-9988776-2",
+    "fullName": "Asma Tariq",
+    "fatherName": "Tariq Chaudhry",
+    "dateOfBirth": "1990-05-20",
+    "phoneNumber": "0321-7654321",
+    "address": "Plot 45, Block C, DHA Phase 6, Lahore, Punjab",
+    "gender": "Female"
+  },
+  {
+    "cnic": "37405-5555444-1",
+    "fullName": "Muhammad Bilal",
+    "fatherName": "Bilal Ahmed",
+    "dateOfBirth": "1988-11-12",
+    "phoneNumber": "0333-5551234",
+    "address": "Flat 12, Block A, Sector I-8/2, Islamabad, ICT",
+    "gender": "Male"
+  }
+]

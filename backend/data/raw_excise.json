@@ -1,0 +1,32 @@
+[
+  {
+    "registrationNumber": "ICT-21-9876",
+    "ownerName": "Zia R. Khan",
+    "cnicSegment": "42101-1234567",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2021,
+    "engineCC": 1800,
+    "registeredCity": "Islamabad"
+  },
+  {
+    "registrationNumber": "LHR-23-4000",
+    "ownerName": "Asma Tariq",
+    "cnicSegment": "35201-9988776",
+    "make": "Toyota",
+    "model": "Prado",
+    "year": 2023,
+    "engineCC": 4000,
+    "registeredCity": "Lahore"
+  },
+  {
+    "registrationNumber": "LEA-20-1122",
+    "ownerName": "Muhammad Bilal",
+    "cnicSegment": "37405-5555444",
+    "make": "Suzuki",
+    "model": "Alto",
+    "year": 2020,
+    "engineCC": 660,
+    "registeredCity": "Lahore"
+  }
+]

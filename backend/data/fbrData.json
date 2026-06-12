@@ -1,0 +1,43 @@
+{
+  "ntn": "1234567-8",
+  "taxFilings": [
+    {
+      "year": 2023,
+      "declaredIncome": 5000000,
+      "taxPaid": 450000,
+      "filingStatus": "filed"
+    },
+    {
+      "year": 2022,
+      "declaredIncome": 4500000,
+      "taxPaid": 400000,
+      "filingStatus": "filed"
+    },
+    {
+      "year": 2021,
+      "declaredIncome": 4000000,
+      "taxPaid": 350000,
+      "filingStatus": "late"
+    }
+  ],
+  "properties": [
+    {
+      "type": "residential",
+      "location": "House 123, Street 4, Sector G-11/3, Islamabad",
+      "estimatedValuePKR": 35000000,
+      "area": "500 sq yd",
+      "registeredIn": "CDA"
+    }
+  ],
+  "vehicles": [
+    {
+      "registrationNumber": "ICT-21-9876",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "engineCC": 1800,
+      "registeredCity": "Islamabad"
+    }
+  ]
+}
+

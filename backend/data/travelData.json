@@ -1,0 +1,20 @@
+{
+  "passportNumber": "G9876543",
+  "trips": [
+    {
+      "destination": "Dubai, UAE",
+      "departureDate": "2024-01-10T08:00:00Z",
+      "returnDate": "2024-01-15T18:00:00Z",
+      "purpose": "business",
+      "airline": "Emirates"
+    },
+    {
+      "destination": "London, UK",
+      "departureDate": "2023-08-20T22:00:00Z",
+      "returnDate": "2023-09-05T15:00:00Z",
+      "purpose": "personal",
+      "airline": "British Airways"
+    }
+  ]
+}
+
